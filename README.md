@@ -14,4 +14,4 @@ Desarrollar una pequeña app en Python para guardar recetas y organizarlas por c
 
 ## Autor
 
-📌 Estudiante de [Tu Nombre]
+📌 Isabel Mora
