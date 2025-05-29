@@ -1,17 +1,11 @@
-# Proyecto: Recetario Digital 🍲
+# Proyecto: Presentación de mi Repositorio🌸🦄🌷🪼🌺
 
-Una app para guardar y compartir recetas favoritas entre amigos y familia.
+Este es mi ejemplo de repositorio donde guardaré cualquier actividad que sea necesaria⋆౨ৎ˚⟡˖ ࣪
 
-## Objetivo
+## 🐝Objetivo
 
-Desarrollar una pequeña app en Python para guardar recetas y organizarlas por categorías.
+Guardar mis actividades y códigos sin que tengan que perderse y poder trabajar en conjunto con mis compañeros sin tanto trámite
 
-## Tecnologías
-
-- Python 3
-- SQLite
-- Interfaz gráfica con Tkinter
-
-## Autor
+## Autor.𖥔 ݁ ˖๋ ࣭ ⭑
 
 📌 Isabel Mora
