@@ -1,11 +1,35 @@
-# Proyecto: Presentación de mi Repositorio🌸🦄🌷🪼🌺
 
-Este es mi ejemplo de repositorio donde guardaré cualquier actividad que sea necesaria⋆౨ৎ˚⟡˖ ࣪
+<h2 align="center">✨ Bienvenida a mi GitHub ✨</h2>
 
-## 🐝Objetivo
+<p align="center">
+  <img src="https://emojicdn.elk.sh/🌸" width="30"/> 
+  <strong>Isabel Mora</strong> | Estudiante de 3ro de Bachillerato en Informática | 17 años  
+  <img src="https://emojicdn.elk.sh/💻" width="30"/>
+</p>
+<img src=""/>
+---
 
-Guardar mis actividades y códigos sin que tengan que perderse y poder trabajar en conjunto con mis compañeros sin tanto trámite
+🌷 ¡Hola! Soy Isabel, una chica apasionada por la tecnología, con una mente curiosa y creativa.  
+📚 Actualmente estudio informática y me encanta escribir código con <strong>Python</strong> .
 
-## Autor.𖥔 ݁ ˖๋ ࣭ ⭑
+💖 Me interesa el mundo de la <strong>Inteligencia Artificial</strong>, y me emociona aprender cómo las máquinas pueden pensar, adaptarse y ayudarnos a resolver problemas reales.
+
+🌸 En este espacio encontrarás:
+- Proyectos escolares 📘
+- Experimentos con código ✨
+- Cosas lindas que hago mientras aprendo 💡
+
+---
+
+<p align="center">
+  💌 <em>“Aprender nunca fue tan bonito”</em> 💌  
+</p>
+
+<p align="center">
+  🌟 Gracias por pasar por aquí 🌟  
+</p>
+
+
+Autor.𖥔 ݁ ˖๋ ࣭ ⭑
 
 📌 Isabel Mora
