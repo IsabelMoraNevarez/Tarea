@@ -6,7 +6,7 @@
   <strong>Isabel Mora</strong> | Estudiante de 3ro de Bachillerato en Informática | 17 años  
   <img src="https://emojicdn.elk.sh/💻" width="30"/>
 </p>
-
+ <img src="https://tenor.com/cztIjcCk71H.gif"/>
 <br>
 
 
