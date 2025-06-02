@@ -7,7 +7,8 @@
   <img src="https://emojicdn.elk.sh/💻" width="30"/>
 </p>
 <img src=""/>
----
+<br>
+<img src="https://tenor.com/bCfNC.gif"/>
 
 🌷 ¡Hola! Soy Isabel, una chica apasionada por la tecnología, con una mente curiosa y creativa.  
 📚 Actualmente estudio informática y me encanta escribir código con <strong>Python</strong> .
@@ -19,7 +20,7 @@
 - Experimentos con código ✨
 - Cosas lindas que hago mientras aprendo 💡
 
----
+<img src="https://tenor.com/bCfNC.gif"/>
 
 <p align="center">
   💌 <em>“Aprender nunca fue tan bonito”</em> 💌  
