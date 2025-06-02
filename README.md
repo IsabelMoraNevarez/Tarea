@@ -6,9 +6,9 @@
   <strong>Isabel Mora</strong> | Estudiante de 3ro de Bachillerato en Informática | 17 años  
   <img src="https://emojicdn.elk.sh/💻" width="30"/>
 </p>
-<img src=""/>
+
 <br>
-<img src="https://tenor.com/bCfNC.gif"/>
+
 
 🌷 ¡Hola! Soy Isabel, una chica apasionada por la tecnología, con una mente curiosa y creativa.  
 📚 Actualmente estudio informática y me encanta escribir código con <strong>Python</strong> .
